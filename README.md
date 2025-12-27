@@ -24,8 +24,8 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 - **Dataset**: Retail Sales & Customer Analytics
 - **Source**: [Kaggle - Retail Analytics Dataset]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/ajinkyachintawar/sales-and-customer-behaviour-insights))  
 - 1) Files included:
-- sales_data.csv: Transaction-level sales data
-- customer_info.csv: Customer demographic and behavioural attributes
+  -   sales_data.csv: Transaction-level sales data
+  - customer_info.csv: Customer demographic and behavioural attributes
 - product_info.csv: Product category and pricing information
   
 - 2)Potential use cases:
