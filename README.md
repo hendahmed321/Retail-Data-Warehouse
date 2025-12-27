@@ -15,8 +15,8 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 - Generate business insights from sales data
 
 ## Technologies Used
-- **Python**: Pandas, pyodbc (Data Cleaning)
-- **SQL Server**: Database Management
+- **Python**: Pandas, numpy, pyodbc, sqlalchemy (Data Extracting, Cleaning and Loading)
+- **SQL Server**: Database and Data Warehouse Management
 - **Power BI**: Data Visualization
 
 ## Data Source
@@ -25,7 +25,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 
 ## Data Pipeline Architecture
 1. **Data Source**
-   - Raw retail data (CSV files)
+   - Raw retail data (3 CSV files)
 
 2. **ETL Process**
    - Data cleaning and preprocessing using Python
@@ -34,7 +34,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 
 3. **Data Warehouse**
    - Implemented using a **Star Schema**
-   - Fact and dimension tables designed for fast querying
+   - Fact and dimension tables
 
 4. **Data Visualization**
    - Power BI dashboards for sales, customers, and product analysis
