@@ -28,7 +28,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
   - customer_info.csv: Customer demographic and behavioural attributes
   - product_info.csv: Product category and pricing information
   
-- 2)Potential use cases:
+- Potential use cases:
   - Customer behaviour analysis
   - Sales trend analysis
   - Feature engineering & ML modeling
