@@ -18,7 +18,6 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 - **Python**: Pandas, pyodbc (Data Cleaning)
 - **SQL Server**: Database Management
 - **Power BI**: Data Visualization
-- **Git**: Version Control
 
 ## Data Source
 - **Dataset**: Retail Sales & Customer Analytics
