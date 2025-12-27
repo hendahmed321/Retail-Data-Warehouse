@@ -23,28 +23,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 ## Data Source
 - **Dataset**: Retail Sales & Customer Analytics
 - **Source**: [Kaggle - Retail Analytics Dataset]([https://www.kaggle.com/datasets/ajinkyachintawar/sales-and-customer-behaviour-insights])
-- Files included:
-  - sales_data.csv: Transaction-level sales data
-  - customer_info.csv: Customer demographic and behavioural attributes
-  - product_info.csv: Product category and pricing information
-  
-- Potential use cases:
-  - Customer behaviour analysis
-  - Sales trend analysis
-  - Feature engineering & ML modeling
-  - Retail analytics dashboards
 
-## ETL Pipeline Process
-### **1. Extraction**
-- Load CSV files from source systems
-- Connect to SQL Server for staging data
+## Project Structure
 
-### **2. Transformation**
-- **Data Cleaning**: Handle missing values, fix inconsistencies
-- **Standardization**: Uniform formats for dates, categories, statuses
-- **Validation**: Ensure data quality and integrity
 
-### **3. Loading**
-- Implement Star Schema in SQL Server
-- Load dimension tables first, then fact tables
-- Establish referential integrity with foreign keys
