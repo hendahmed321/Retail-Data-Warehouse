@@ -42,6 +42,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 
 ## Data Warehouse Schema
 The data warehouse follows a **Star Schema** design:
+
 <img width="682" height="621" alt="star schema" src="https://github.com/user-attachments/assets/d6888522-240c-40da-bc79-3e995e63ce88" />
 
 ## Key Insights & Analysis
