@@ -33,3 +33,18 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
   - Sales trend analysis
   - Feature engineering & ML modeling
   - Retail analytics dashboards
+
+## ETL Pipeline Process
+### **1. Extraction**
+- Load CSV files from source systems
+- Connect to SQL Server for staging data
+
+### **2. Transformation**
+- **Data Cleaning**: Handle missing values, fix inconsistencies
+- **Standardization**: Uniform formats for dates, categories, statuses
+- **Validation**: Ensure data quality and integrity
+
+### **3. Loading**
+- Implement Star Schema in SQL Server
+- Load dimension tables first, then fact tables
+- Establish referential integrity with foreign keys
