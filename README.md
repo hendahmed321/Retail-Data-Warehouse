@@ -21,7 +21,7 @@ A complete data warehouse solution for retail analytics using Python, SQL Server
 
 ## Data Source
 - **Dataset**: Retail Sales & Customer Analytics
-- **Source**: [Kaggle - Retail Analytics Dataset]([https://www.kaggle.com/datasets/ajinkyachintawar/sales-and-customer-behaviour-insights])
+- **Source**: [Kaggle - Retail Analytics Dataset](https://www.kaggle.com/datasets/ajinkyachintawar/sales-and-customer-behaviour-insights)
 
 ## Data Pipeline Architecture
 1. **Data Source**
